@@ -82,3 +82,60 @@ a.socialIcon:hover,
 .text-large {
     font-size: 180%;
 }
+
+div .nounderline {
+    text-decoration: none;
+}
+
+
+
+
+
+.portfolio {
+    color: rgba(233, 14, 58, 0.735);
+    text-decoration: none;
+}
+
+.res-portfolio {
+    color: rgb(20, 220, 87);
+    text-decoration: none;
+}
+
+.bootstrap-portfolio {
+    color: rgb(220, 20, 213);
+    text-decoration: none;
+}
+
+.psychic-game {
+    color: rgb(20, 200, 220);
+    text-decoration: none;
+}
+.unit-4-game {
+    color: rgb(220, 157, 20);
+    text-decoration: none;
+}
+
+.trivia-game {
+    color: rgb(160, 220, 20);
+    text-decoration: none;
+}
+
+.gif-tastic {
+    color: rgb(120, 20, 220);
+    text-decoration: none;
+}
+
+.train {
+    color: rgb(220, 107, 20);
+    text-decoration: none;
+}
+
+.date-night {
+    color: rgb(247, 51, 208);
+    text-decoration: none;
+}
+
+.liri-node-app {
+    color: rgba(22, 20, 18, 0.858);
+    text-decoration: none;
+}
