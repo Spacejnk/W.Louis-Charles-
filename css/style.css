@@ -87,8 +87,9 @@ div .nounderline {
     text-decoration: none;
 }
 
-
-
+.p {
+    margin-top: 100px;
+}
 
 
 .portfolio {
@@ -116,6 +117,7 @@ div .nounderline {
 }
 
 .trivia-game {
+    margin-top: 20px;
     color: rgb(160, 220, 20);
     text-decoration: none;
 }
@@ -141,11 +143,21 @@ div .nounderline {
 }
 
 .binge {
+    margin-top: 20px;
     color: rgba(16, 63, 206, 0.858);
     text-decoration: none;
 }
 
 .code-book {
+    margin-top: 20px;
     color: rgba(242, 153, 45, 0.858);
     text-decoration: none;
+}
+
+.githubporjects {
+    margin-top: -30px;
+}
+.githubporjects a{
+    text-decoration: none;
+    color: rgba(22, 20, 18, 0.858);
 }
