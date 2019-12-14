@@ -161,9 +161,15 @@ div .nounderline {
 }
 
 .githubporjects {
-    margin-top: -30px;
+    margin-top: -40px;
+    margin-bottom: 30px;
+    padding-bottom: -20px;
 }
 .githubporjects a{
     text-decoration: none;
     color: rgba(22, 20, 18, 0.858);
+}
+
+.project-spacing {
+    padding: 10px;
 }
