@@ -12,7 +12,7 @@ ul.social-network li {
 
 
 .social-network a.icoGithub:hover {
-    background-color: rgb(12, 12, 12);
+    background-color: rgb(216, 130, 130);
 }
 
 .social-network a.icoTwitter:hover {
@@ -22,6 +22,12 @@ ul.social-network li {
 .social-network a.icoLinkedin:hover {
     background-color: #007bb7;
 }
+
+
+.social-network a.icoPDF:hover {
+    background-color: rgb(192, 48, 48);
+}
+
 
 .social-network a.icoTwitter:hover i,
 .social-network a.icoLinkedin:hover i {
@@ -118,7 +124,7 @@ div .nounderline {
 
 .trivia-game {
     margin-top: 20px;
-    color: rgb(160, 220, 20);
+    color: rgba(22, 20, 18, 0.858);
     text-decoration: none;
 }
 
@@ -144,13 +150,13 @@ div .nounderline {
 
 .binge {
     margin-top: 20px;
-    color: rgba(16, 63, 206, 0.858);
+    color: rgba(22, 20, 18, 0.858);
     text-decoration: none;
 }
 
 .code-book {
     margin-top: 20px;
-    color: rgba(242, 153, 45, 0.858);
+    color: rgba(22, 20, 18, 0.858);
     text-decoration: none;
 }
 
