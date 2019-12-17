@@ -1,3 +1,5 @@
+/* Icons and styling */
+
 ul.social-network {
     list-style: none;
     display: inline;
@@ -97,6 +99,8 @@ div .nounderline {
     margin-top: 100px;
 }
 
+/* Portfolio projects -- some soon to be removed */
+
 
 .portfolio {
     color: rgba(233, 14, 58, 0.735);
@@ -158,6 +162,12 @@ div .nounderline {
     margin-top: 20px;
     color: rgba(22, 20, 18, 0.858);
     text-decoration: none;
+}
+
+/* Alignment and spacing of projects */
+
+.project-alignment{
+    margin: 30px;
 }
 
 .githubporjects {
