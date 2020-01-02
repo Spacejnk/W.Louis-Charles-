@@ -132,7 +132,7 @@ div .nounderline {
     text-decoration: none;
 }
 .trivia-game:hover {
-    color: rgb(255, 132, 0);
+    color: rgb(192, 48, 48);
 }
 
 .gif-tastic {
@@ -162,7 +162,7 @@ div .nounderline {
 }
 
 .binge:hover {
-    color: rgb(255, 132, 0);
+    color: rgb(192, 48, 48);
 }
 
 .code-book {
@@ -172,7 +172,7 @@ div .nounderline {
 }
 
 .code-book:hover {
-    color: rgb(255, 132, 0);
+    color: rgb(192, 48, 48);
 }
 
 /* Alignment and spacing of projects */
