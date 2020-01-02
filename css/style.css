@@ -131,6 +131,9 @@ div .nounderline {
     color: rgba(22, 20, 18, 0.858);
     text-decoration: none;
 }
+.trivia-game:hover {
+    color: rgb(255, 132, 0);
+}
 
 .gif-tastic {
     color: rgb(120, 20, 220);
@@ -158,10 +161,18 @@ div .nounderline {
     text-decoration: none;
 }
 
+.binge:hover {
+    color: rgb(255, 132, 0);
+}
+
 .code-book {
     margin-top: 20px;
     color: rgba(22, 20, 18, 0.858);
     text-decoration: none;
+}
+
+.code-book:hover {
+    color: rgb(255, 132, 0);
 }
 
 /* Alignment and spacing of projects */
@@ -182,4 +193,8 @@ div .nounderline {
 
 .project-spacing {
     padding: 10px;
+}
+
+div .git:hover {
+    color: rgb(255, 132, 0);
 }
